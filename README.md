@@ -1,10 +1,10 @@
 # Data-Mining
 
-##final project, Amirkabir University of Technology, spring 2020
+## final project, Amirkabir University of Technology, spring 2020
 
 
-1.	The data of this question named Data preprocessing is attached in the file of this exercise. Our intention in this question is to learn data preprocessing.
-#### An explanation about the dataset: This dataset is about several different countries in which there are features such as the population of these countries, population growth and tourist status, with the help of these features we are going to build a regression model that shows the number of patients with the corona virus in Estimate other countries. Of course, please note that due to the small number of data and that the features are not necessarily exact features, we do not expect an exact result and it is only for the purpose of learning.
+#### 1.	The data of this question named Data preprocessing is attached in the file of this exercise. Our intention in this question is to learn data preprocessing.
+An explanation about the dataset: This dataset is about several different countries in which there are features such as the population of these countries, population growth and tourist status, with the help of these features we are going to build a regression model that shows the number of patients with the corona virus in Estimate other countries. Of course, please note that due to the small number of data and that the features are not necessarily exact features, we do not expect an exact result and it is only for the purpose of learning.
 
   I.	Use different ways to deal with Missing Values and which one of the ways do you think is the most appropriate? Can you give a general opinion? (All the ways are mentioned in the data preprocessing video and also in the classroom that you can use).
   
@@ -20,7 +20,7 @@
 
 
 
-2.	The data of this question named Customers Ecommerce is attached in the file of this exercise. Note the following explanation about our goal in this question as well as the dataset.
+#### 2.	The data of this question named Customers Ecommerce is attached in the file of this exercise. Note the following explanation about our goal in this question as well as the dataset.
 
 “Congratulations! You just got some contract work with an Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. 
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website. They’ve hired you on contract to help them figure it out! We’ll work with the Ecommerce Customers csv file from the company. It has Customer info, such as Email, Address, and their color Avatar. Then it also has numerical value columns:
@@ -42,7 +42,7 @@ V.	Now, according to your evaluation of the model, respond to the company.
 Do you think the company should focus more on their mobile app or on their website?
 
 
-3.	In this section, ROC, Matrix Confusion and Report Classification criteria should be stated in the output of all questions.
+#### 3.	In this section, ROC, Matrix Confusion and Report Classification criteria should be stated in the output of all questions.
   I.	Download the dataset
   
  http://archive.ics.uci.edu/ml/datasets/Arrhythmia.
