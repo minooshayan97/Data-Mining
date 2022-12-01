@@ -1,8 +1,10 @@
 # Data-Mining
+
 final project, Amirkabir University of Technology, spring 2020
 
-1.	The data of this question named Data preprocessing is attached in the file of this exercise. Our intention in this question is to learn data preprocessing.
-An explanation about the dataset: This dataset is about several different countries in which there are features such as the population of these countries, population growth and tourist status, with the help of these features we are going to build a regression model that shows the number of patients with the corona virus in Estimate other countries. Of course, please note that due to the small number of data and that the features are not necessarily exact features, we do not expect an exact result and it is only for the purpose of learning.
+
+# 1.	The data of this question named Data preprocessing is attached in the file of this exercise. Our intention in this question is to learn data preprocessing.
+#An explanation about the dataset: This dataset is about several different countries in which there are features such as the population of these countries, population growth and tourist status, with the help of these features we are going to build a regression model that shows the number of patients with the corona virus in Estimate other countries. Of course, please note that due to the small number of data and that the features are not necessarily exact features, we do not expect an exact result and it is only for the purpose of learning.
 
   I.	Use different ways to deal with Missing Values and which one of the ways do you think is the most appropriate? Can you give a general opinion? (All the ways are mentioned in the data preprocessing video and also in the classroom that you can use).
   
