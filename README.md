@@ -46,6 +46,7 @@ Do you think the company should focus more on their mobile app or on their websi
  http://archive.ics.uci.edu/ml/datasets/Arrhythmia.
  
  As can be seen, this dataset has missing values. Perform data preprocessing with one of the ways to deal with missing data.
+ 
   II.	Apply the nearest neighbor algorithm for k = 1 and k = 30 with the Euclidean distance criterion on the downloaded dataset. Obtain and analyze all training metrics for this training and test data.
   
   III.	Obtain the optimal value of k and the best distance criterion (cosine, Euclidean and Manhattan) using the cross fold - k validation method. Now apply this algorithm for these optimal values on the downloaded dataset. Obtain and analyze all training metrics for training and test data.
